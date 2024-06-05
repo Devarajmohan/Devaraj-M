@@ -10,8 +10,7 @@ Junior frontend Developer
 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
-devaraj-m-b2b78221b
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devaraj-m/)
 )
 - 😄 Pronouns: DEVA
 - ⚡ Fun fact: its all about laught.
