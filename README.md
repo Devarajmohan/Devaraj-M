@@ -5,12 +5,12 @@ About Me
 Junior frontend Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to developing websites
 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devaraj-m/)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devaraj-m-b2b78221b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 😄 Pronouns: DEVA
 - ⚡ Fun fact: its all about laught.
