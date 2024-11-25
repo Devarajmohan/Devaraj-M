@@ -17,7 +17,7 @@ Junior Fullstack Developer
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><img height="50" width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><img height="50" width="50" src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="Express.js"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><img height="50" width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><img height="50" width="50" src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="Express-js"/>
 
 
 
@@ -28,6 +28,6 @@ Junior Fullstack Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-web-console.png" alt="Google Search Console"/>
+
 
 
