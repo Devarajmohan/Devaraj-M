@@ -1,0 +1,55 @@
+High Priority - Frequently Asked in 2024
+These questions address core JavaScript and frontend concepts that are commonly asked in interviews.
+
+1.Reversing a number (Q1)
+2.Fibonacci series (Q2, Q50) - Focus on recursion and dynamic programming.
+3.Greatest Common Divisor (Q3) - Basic algorithm problem.
+4.Check if two strings are anagrams (Q5) - String manipulation and sorting.
+5.Palindrome check for a string (Q6, Q24) - Common string manipulation problem.
+6.Character frequency in a string (Q7) - Object manipulation and loops.
+7.Bubble sort (Q9) - Often used for testing sorting algorithm knowledge.
+8.Merge sort (Q10) - Important for understanding time complexity.
+9.Leap year check (Q11) - Simple logic-based question.
+10.Find non-repeating characters in a string (Q12) - Requires hash maps or arrays.
+11.Circular rotation of an array (Q16) - Array manipulation challenge.
+12.Non-repeating elements in an array (Q17) - Similar to finding unique values in a string.
+13.Factorial of a number (Q19) - Common recursion problem.
+14.Binary to decimal conversion (Q25) - Simple number-to-string manipulation.
+15.Vowel or consonant check (Q26) - Basic string handling.
+16.Sort the elements of an array (Q32) - Sorting is a must-know concept.
+17.Sort array without using sort() method (Q33) - Useful for algorithm testing.
+
+
+
+Medium Priority - Occasionally Asked
+These are less frequent but still might appear in technical coding tests.
+
+18.Perfect number (Q4) - Number theory, not common but useful.
+19.Wildcard matching in strings (Q8, Q48) - Regex and string pattern matching.
+20.Replace a substring in a string (Q13, Q34) - Common string manipulation problem.
+21.Heap sort (Q14) - More advanced sorting but less common.
+22.Rank elements of an array (Q15) - Good for algorithmic problem-solving.
+23.Longest palindrome in an array (Q18) - Combines palindrome checks with arrays.
+24.Armstrong number (Q20) - Number manipulation.
+25.Automorphic number (Q27) - Number theory, less relevant for frontend.
+26.Remove all characters from a string except alphabets (Q29) - Regex or string manipulation.
+
+Low Priority - Rarely Asked
+These questions are rare in frontend interviews but may still pop up for more backend or algorithmic coding interviews.
+
+27.Add two matrices (Q22) - Matrix operations are uncommon in frontend.
+28.Sum of natural numbers using recursion (Q21, Q23) - Recursion, but less practical in frontend.
+29.Find the smallest element in an array (Q30) - Simple, but sorting might be more challenging.
+30.Reverse the elements of an array (Q31) - Usually combined with sorting or palindrome questions.
+31.Remove space from a string (Q35) - Regular expression use, simple.
+32.Count inversions in an array (Q36) - Advanced algorithm, less likely in frontend.
+33.Find the largest consecutive subsequence (Q37) - More advanced algorithmic thinking.
+34.Sum of digits of a number (Q38) - Useful for recursive or iterative problem-solving.
+35.Power of a number (Q39) - Simple, often solved with recursion.
+36.Add two fractions (Q41) - Rarely asked in frontend interviews.
+37.Find the largest element in an array (Q42) - Less common unless it is paired with advanced techniques.
+38Roots of a quadratic equation (Q43) - Mathematical problems like this are rare.
+39.Prime factors of a number (Q44) - Number theory, not common in frontend.
+40.Convert digits to words (Q45) - Common in more algorithmic interviews.
+41.Factorial using recursion (Q46) - Often combined with other recursion questions.
+
