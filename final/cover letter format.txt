@@ -1,0 +1,109 @@
+[Your Name]
+[Your Address]
+[Your Email] | [Your Phone Number]
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Subject: Application for [Fullstack Developer/Frontend Developer/Software Developer/Software Engineer] Position
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my keen interest in the [Fullstack Developer/Frontend Developer/Software Developer/Software Engineer] position at [Company Name]. As an enthusiastic and results-driven developer with hands-on experience in designing and optimizing scalable web applications, I am eager to contribute my expertise to your dynamic team.
+
+With a strong foundation in React, JavaScript, Python, Java, Node.js, SQL, and NoSQL, I have successfully built and deployed responsive, high-performance applications that enhance user engagement and streamline operations. My experience developing e-commerce platforms, such as Untung.in, DomaniShoes.com, and CraveCoffee.in, has equipped me with the skills to build robust architectures, improve load times, and optimize SEO strategies for enhanced visibility. Additionally, my proficiency with Git, Webpack, REST APIs, and system design allows me to create scalable and maintainable solutions tailored to business needs.
+
+What excites me most about [Company Name] is its commitment to innovation and cutting-edge technology. I am particularly drawn to [mention something specific about the company’s projects, culture, or technology stack] and believe that my technical expertise and problem-solving mindset align well with your team’s goals.
+
+I would welcome the opportunity to further discuss how my skills and experience align with your needs. Please find my resume attached for your review. I look forward to the possibility of contributing to your team and would be happy to connect at your convenience.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]
+[Your LinkedIn Profile] | [Your GitHub Profile] | [Your Contact Information]
+
+
+
+
+
+
+
+
+---------------------
+
+
+
+
+
+
+
+Devaraj M
+4/513 Bharathiyar Nagar,Erumapalayam , Salem-15
+devarajm8925@gmail.com | +91 9344794359
+12/02/2025
+
+Hiring Manager
+Kumar
+Tesla
+
+Subject: Application for [Fullstack Developer/Frontend Developer/Software Developer/Software Engineer] Position
+
+Dear Kumar,
+
+I am writing to express my keen interest in the [Fullstack Developer/Frontend Developer/Software Developer/Software Engineer] position at [Company Name]. As an enthusiastic and results-driven developer with hands-on experience in designing and optimizing scalable web applications, I am eager to contribute my expertise to your dynamic team.
+
+With a strong foundation in React, JavaScript, Python, Java, Node.js, SQL, and NoSQL, I have successfully built and deployed responsive, high-performance applications that enhance user engagement and streamline operations. My experience developing e-commerce platforms, such as Untung.in, DomaniShoes.com, and CraveCoffee.in, has equipped me with the skills to build robust architectures, improve load times, and optimize SEO strategies for enhanced visibility. Additionally, my proficiency with Git, Webpack, REST APIs, and system design allows me to create scalable and maintainable solutions tailored to business needs.
+
+What excites me most about [Company Name] is its commitment to innovation and cutting-edge technology. I am particularly drawn to [mention something specific about the company’s projects, culture, or technology stack] and believe that my technical expertise and problem-solving mindset align well with your team’s goals.
+
+I would welcome the opportunity to further discuss how my skills and experience align with your needs. Please find my resume attached for your review. I look forward to the possibility of contributing to your team and would be happy to connect at your convenience.
+
+Thank you for your time and consideration.
+
+Best regards,
+Devaraj M
+LinkedIn.in | GitHub.io | +91 9344794359
+
+
+
+
+
+---------------------
+
+
+COMMON FORMAT FOR ALL
+
+
+
+
+Devaraj M
+4/513 Bharathiyar Nagar, Erumapalayam, Salem-15
+devarajm8925@gmail.com | +91 9344794359
+
+12-02-2025
+
+Hiring Manager
+[Company Name]
+
+Subject: Application for [Job Title] Position
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my keen interest in the [Job Title] position at [Company Name]. As an enthusiastic and results-driven developer with hands-on experience in designing and optimizing scalable web applications, I am eager to contribute my expertise to your dynamic team.
+
+With a strong foundation in React, JavaScript, Python, Java, Node.js, SQL, and NoSQL, I have successfully built and deployed responsive, high-performance applications that enhance user engagement and streamline operations. My experience developing e-commerce platforms such as Untung.in, DomaniShoes.com, and CraveCoffee.in has equipped me with the skills to build robust architectures, improve load times, and optimize SEO strategies for enhanced visibility. Additionally, my proficiency with Git, Webpack, REST APIs, and system design allows me to create scalable and maintainable solutions tailored to business needs.
+
+What excites me most about [Company Name] is its commitment to innovation and cutting-edge technology. I am particularly drawn to [mention something specific about the company’s projects, culture, or technology stack] and believe that my technical expertise and problem-solving mindset align well with your team’s goals.
+
+I would welcome the opportunity to further discuss how my skills and experience align with your needs. Please find my resume attached for your review. I look forward to the possibility of contributing to your team and would be happy to connect at your convenience.
+
+Thank you for your time and consideration.
+
+Best regards,
+Devaraj M
+[LinkedIn] | [GitHub] | [Email] | +91 9344794359
+devarajm8925@gmail.com 
+

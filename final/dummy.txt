@@ -1,0 +1,684 @@
+TCS ION NQT:
+
+MAIL ID: 
+
+
+Please note your Reference ID: DT20256595357 for all further communication with TCS.
+
+
+----------------------
+
+
+SUMMARY
+ 
+Devaraj M 
+
++91 9344794359  |   devarajm8925@gmail.com | LinkedIn   |    GitHub 
+
+Detail-oriented FullStack Developer with hands-on experience in web development, specializing in React, JavaScript, Rest API,Python, 
+HTML/CSS, C/C++, Data Structures and Algorithms, and responsive design. Strong problem-solving skills and a proven ability to optimize 
+web applications and design scalable systems, improving load times. Experienced with Git and Webpack, collaborating on real-time 
+projects and focusing on system design to solve larger-scale problems and enhance architecture. 
+
+
+Detail-oriented Full Stack Developer with 3+ years of hands-on experience in web development, specializing in React.js, JavaScript, REST APIs, Python, and responsive design. Proven expertise in optimizing web applications, improving system performance, and creating scalable solutions. Skilled in front-end development (HTML, CSS, JavaScript), back-end architecture (Node.js, Express.js, MongoDB), and responsive design principles. Adept at reducing load times, enhancing SEO, and improving user experience. Proficient in Git, Webpack, and Agile methodologies with a focus on collaborating in cross-functional teams to solve complex, large-scale problems.
+
+
+SKILLS
+
+
+Technical Skills 
+
+Programming: HTML, CSS, JavaScript, Python, MongoDB, SQL, C, C++, Data Structures, Algorithms  
+Frameworks & Libraries: React.js, Node.js, Bootstrap, Express.js, REST API  
+Version Control: Git, GitHub  
+Web Optimization: Webpack, NPM, SEO, Cross-browser Compatibility, Web Performance Optimization  
+Development Tools: VS Code, WordPress, Shopify, Postman, Google Search Console, Google Analytics  
+
+
+soft Skills 
+Analytical Thinking, Time Management, Problem Solving, Adaptability, Error Handling, Code Debugging
+
+
+EXPERIENCE
+1. Untung.in
+Role: Full Stack Developer | Bengaluru | Nov 24
+
+Developed a responsive, mobile-first e-commerce platform for women's fashion using React.js, Node.js, Express.js, and MongoDB.
+Implemented dynamic frontend components with HTML, CSS, Bootstrap, and JavaScript to enhance user experience.
+Applied advanced SEO strategies and optimized page load times, resulting in a 30% increase in organic traffic and a 25% decrease in bounce rates.
+Improved customer engagement with a 20% rise in average session duration.
+
+2. Domanishoes.com
+Role: Full Stack Developer | Delhi | Nov 24
+
+Designed and built a responsive, SEO-optimized e-commerce platform for seamless navigation and enhanced shopping experience.
+Leveraged React.js, Node.js, Express.js, MongoDB, and Bootstrap for dynamic frontend and robust backend integration.
+Implemented mobile-first design, improving user experience across devices. Achieved a 25% increase in traffic and 20% improvement in page load times.
+Significantly reduced bounce rate and improved customer engagement.
+
+3. Cravecoffee.in
+Role: Full Stack Developer | salem | Nov24 
+
+Created a fully responsive coffee shop platform with React.js, Node.js, and MongoDB, optimizing for both SEO and performance.
+Integrated frontend components using HTML, CSS, Bootstrap, and JavaScript, ensuring an intuitive user interface.
+Enhanced organic traffic through SEO strategies, leading to an increase in online inquiries and higher site traffic.
+Boosted brand visibility with a 20% increase in user engagement.
+4. Flairfix.netlify.app
+Role: Full Stack Developer | salem | Nov24
+
+Designed and developed an intuitive e-commerce platform for fashion with a focus on product discovery.
+Built a sleek and interactive frontend using React.js, and optimized backend performance with Node.js, Express.js, and SQL.
+Applied responsive design principles for multi-device compatibility and implemented SEO best practices.
+Achieved higher organic visibility, with a 10% increase in user engagement and improved product discovery due to enhanced SEO.
+
+EDUCATION 
+Muthayammal Polytechnic College, Namakkal| Diploma in Electronics and Communication Engineering | GPA: 9.8 
+Government College of Technology, Coimbatore | Bachelor Electronics and Communication Engineering | GPA:7.2   
+                   
+PROJECTS 
+Jun 2019 - Mar 2021 
+Jun 2021 - Mar 2024                                                                                                            
+ Smart Home Automation Using Alexa 
+ Loco Motive Robot for Inspection  
+ Quantum Key Distribution Protocol for Image Steganography 
+
+INTERNSHIP 
+ Embedded Systems in MSME at Coimbatore                                                                                                          
+ Networking in BSNL at Coimbatore 
+
+ACHIEVEMENTS & EXTRACURRICULAR ACTIVITIES 
+
+ Winner of the Project Presentation at “BIAS’23” for the Smart Home Automation system 
+ Coordinator for Standard Club and Member, Y’s Service Club  
+
+LANGUAGES 
+Tamil, English, Kannada 
+
+
+
+
+
+
+
+
+
+de:
+
+24/01/25
+
+
+vipul.mittal@naukri.com
+biju.kumar@naukri.com
+gurpreet.kaur@naukri.com
+kuldeep.yadav@naukri.com
+niharika.sachdeva@naukri.com
+
+
+
+rishabh.sehgal@wipro.com
+
+pavan.kumar@wipro.com
+pavankumar28691@gmail.com
+khushi2095@gmail.com
+dbhoyar@astoncarter.com
+dhanshreeboyar@gmail.com
+syedasfi.ahmed@gmail.com
+syedasfi.ahmed@gmail.com
+
+divyashree.akki@gmail.com
+aparupa.bagchi@numerictech.com
+aparupabagchi8@gmail.com
+priyanshi.sahu@ice.nl
+priyanshisahu301@gmail.com
+
+
+25/01/25
+
+chandershekhar.verma@zopper.com
+nehagoel.recruitment@gmail.com
+arnavv@ixceed-solutions.com
+arnavv@ixceed-solutions.co.uk
+rutuja@truenorthinfotek.com
+rutujadhanale88@gmail.com
+srushti.g@alchemytechsol.com
+shalini22692@gmail.com
+munigetiharitha1996@gmail.com
+sumit@naukri.com
+saurabh.tyagi@naukri.com
+niharika.sachdeva@naukri.com
+biju.kumar@naukri.com
+akanksha.n@naukri.com
+gurpreet.kaur@naukri.com
+vipul.mittal@naukri.com
+kuldeep.yadav@naukri.com
+vikas.pandey@naukri.com
+auppula@linkedin.com
+paolo@voltra.co
+mike@lower.com
+cindy@glogou.com
+gary@bklyn.co
+phil@devsquad.com
+david.cagigas@vidiq.com
+chadb@discoveryinsurance.com
+aytac@sipexa.com
+seanm@seymourduncan.com
+trevi@altura.io
+rob@huntress.com
+michael.paccione@itential.com
+chris.traina@raf.com
+jochen@dividendfinance.com
+roeland.douma@nextcloud.com
+roeland.douma@nextcloud.com
+wook.wook@methodstudios.com
+sam@aptamigo.com
+emma.nash@neo4j.com
+matt@boostability.com
+shalini22692@gmail.com
+srushti.g@alchemytechsol.com
+rutuja@truenorthinfotek.com
+rutujadhanale88@gmail.com
+eshu.ponnamma@techwisedigital.com
+souporno@whitehorsemanpower.in
+kalaivaani@culminantoutlook.com
+rajakalaivaani@gmail.com
+nabil.ahamed@ascendo.ai
+nabil.a@bahwancybertek.com
+nabilahamed99@gmail.com
+dhiyaneswaran.a@orioninc.com
+dhiyanes35@gmail.com
+faraz.ahmed@getcrest.ai
+faraz@gameberrylabs.com
+ahmedfaraz1807@gmail.com
+vivek.selvaraj@qsc.com
+vivekselvaraj@hotmail.com
+manish.jupaka@vantagerms.com
+manishjupaka99@gmail.com
+s-g@sparkminda.com
+sainigeetika02@gmail.com
+diksha.mishra@brillio.com
+diksha2917@gmail.com
+sujatasingh@virtualemployee.com
+sujata.singh@swastika.co.in
+sujataroli626@gmail.com 
+
+ count 66
+
+Afternoon:
+
+abalachandran@teksystems.com
+akshaya.rao@upstriveconsulting.com
+dixita@doodleblue.com
+rathinaprakash@zilogic.com
+prakash.rathina@gmail.com
+naveen.kamaraju@thalesgroup.com
+naveen.kamaraju@cohesity.com
+mageshwari@cafsinfotech.com
+magisubramanian29@gmail.com
+sathishk@prochant.com
+sathishvj3377@gmail.com
+nj.a@ssipeople.com
+prajwalnaga0@gmail.com
+nj.a@ssipeople.com
+prajwalnaga0@gmail.com
+giriraj.sj@wengerwatson.com
+gjhala@guidewire.com
+giriraj.jhala@infobeans.com
+giriraj.jhala@collabera.com
+aravindh.m@vdartinc.com
+aravindh_mathiazhagan@infosys.com
+am@objectwin.com
+muthukkumar.r@valuelabs.com
+muthukumar.r@newlineinfo.com
+muthukumar@reqsta.com
+muthur5691@gmail.com
+rohith.unny@kovai.co
+rohithunny@gmail.com
+bharath.vp@oasys.co
+bharath.mechatrics@gmail.com
+rajesh.s@valmet.com
+citigrouprajesh@gmail.com
+suba.r@ecorres.com
+rajarajanvr03@gmail.com
+dhanya@numentica.com
+silango@explorance.com
+samyu695@gmail.com
+gowkin.s@impigertech.com
+prashanth.pandurangan@flexera.com
+prashanthpandurangan1203@gmail.com
+jameela@atrimed.com
+jamilabaiju@gmail.com
+vijay.prabhakaran@ysecit.com
+vijay@cadmaxx.com
+vijayprabhakaranvj998@gmail.com
+
+count 44
+
+
+
+
+
+
+//  //
+
+
+Cold mail :
+
+
+Email 1: Straightforward and Professional
+Subject: Full Stack Developer with Proven Expertise – Open to Opportunities
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. My name is Devaraj M, and I am a detail-oriented Full Stack Developer with hands-on experience in creating responsive and SEO-optimized web applications using React, JavaScript, REST APIs, Node.js, Python, and more.
+
+With a strong foundation in data structures and algorithms and experience in scalable system design, I’ve successfully developed and optimized multiple e-commerce platforms, such as untung.in and domanishoes.com, resulting in significant increases in traffic and engagement. My ability to deliver user-friendly, high-performing solutions is complemented by a commitment to clean code and debugging.
+
+I am currently seeking new opportunities where I can contribute my expertise to build impactful digital products. I would love the opportunity to discuss how my skills align with your team’s goals.
+
+Feel free to connect with me:
+📱 Mobile: +91 9344794359
+💼 LinkedIn: LinkedIn Profile
+📂 Portfolio: Portfolio Link
+📊 LeetCode: LeetCode Profile
+
+Thank you for your time, and I look forward to hearing from you!
+
+Best regards,
+Devaraj M
+
+Email 2: Engaging and Value-Oriented
+Subject: Let’s Build Something Exceptional Together
+
+Hi [Recipient's Name],
+
+My name is Devaraj M, a passionate Full Stack Developer specializing in React, JavaScript, Node.js, and Python, with extensive experience in building scalable, user-focused applications. Whether it’s optimizing web performance or enhancing UX, I take pride in crafting solutions that deliver measurable results.
+
+For instance:
+
+At untung.in, my work led to a rise in organic traffic and improved session durations.
+At domanishoes.com, I streamlined the backend for seamless navigation and enhanced customer engagement.
+I’m confident my technical skills and problem-solving abilities can help your team achieve its goals faster and more effectively. I would love the chance to discuss how I can contribute to your organization.
+
+Let’s connect:
+📱 Mobile: +91 9344794359
+💼 LinkedIn: LinkedIn Profile
+📂 Portfolio: Portfolio Link
+📊 LeetCode: LeetCode Profile
+
+Looking forward to a potential collaboration!
+
+Best regards,
+Devaraj M
+
+Email 3: Problem-Solving Pitch
+Subject: Full Stack Developer Ready to Solve Complex Challenges
+
+Dear [Recipient's Name],
+
+I’m Devaraj M, an experienced Full Stack Developer with a knack for solving complex problems using technologies like React, Node.js, Python, and MongoDB. My career highlights include:
+
+Reducing bounce rates and optimizing page load times for e-commerce platforms like domanishoes.com and cravecoffee.in.
+Designing and implementing scalable systems for better performance and user engagement.
+Applying advanced data structures and algorithms to enhance the efficiency of web solutions.
+I’m eager to bring this expertise to a team looking to build innovative, high-performing products. If your organization is seeking someone to tackle challenges and drive results, let’s schedule a time to discuss how I can contribute.
+
+Here are my contact details:
+📱 Mobile: +91 9344794359
+💼 LinkedIn: LinkedIn Profile
+📂 Portfolio: Portfolio Link
+📊 LeetCode: LeetCode Profile
+
+I’m looking forward to connecting with you!
+
+Best regards,
+Devaraj M
+
+
+
+
+
+
+FINALL MAIL 1 :
+
+
+Subject: Ready to Build Scalable Software Solutions
+
+Hello,
+
+I’m Devaraj M, a passionate software developer with experience in building responsive and high-performing solutions using React, JavaScript, REST APIs, Python,C,C++, and more.
+
+With strong expertise in data structures, algorithms, and system design, I excel in both frontend and backend development. I’m committed to clean coding, debugging, and delivering exceptional results.
+
+I’m eager to join your dynamic team and contribute to impactful projects that align with your goals. Let’s discuss how my skills can add value to your organization!
+
+Let’s connect to discuss how I can contribute to your team’s goals:
+📱 +91 9344794359
+💼 LinkedIn
+📂 Portfolio
+📊 LeetCode
+
+Looking forward to connecting!
+
+Best regards,
+Devaraj M
+
+
+
+FINAL MAIL 2:
+
+Subject: Empowering Your Team with Scalable Software Solutions
+
+Hello,
+
+I’m Devaraj M, a passionate software developer with hands-on experience in building responsive and high-performing solutions using React, JavaScript, REST APIs, Python, C, C++,and more.
+
+With strong expertise in data structures, algorithms, and system design, I excel in both frontend and backend development. I’m committed to delivering clean, maintainable code, effective debugging, and scalable digital solutions.
+
+I’d love to contribute my skills to your dynamic team and help drive impactful projects that align with your goals. Let’s discuss how I can bring value to your organization!
+
+Feel free to connect:
+📱 +91 9344794359
+💼 LinkedIn
+📂 Portfolio
+📊 LeetCode
+
+Looking forward to collaborating!
+
+Best regards,
+Devaraj M
+
+
+
+
+FINAL MAIL 3:
+
+
+Subject: Build Scalable, High-Performing Software with Devaraj M
+
+Hello,
+
+I’m Devaraj M, a dedicated software developer with expertise in creating scalable, responsive, and high-performing digital solutions using React, JavaScript, REST APIs, Python, C , C++, and more.
+
+My strong foundation in data structures, algorithms, and system design, paired with experience in both frontend and backend development, equips me to deliver exceptional results. I take pride in writing clean, maintainable code and building impactful products that solve real-world challenges.
+
+I’d love the opportunity to collaborate with your team and contribute to meaningful projects. Let’s connect and discuss how I can help achieve your organization’s goals!
+
+Connect with me:
+📱 +91 9344794359
+💼 LinkedIn
+📂 Portfolio
+📊 LeetCode
+
+Looking forward to connecting!
+
+Best regards,
+Devaraj M
+
+
+
+
+
+
+
+----------------------------
+
+
+
+
+
+SUBJECT LINES:
+
+
+
+Fun & Engaging 🎉
+🚀 Code, Coffee & Creativity – Let’s Build Something Cool!
+💡 Turning Ideas into Code – Hire a Developer Who Loves Innovation!
+🎯 Debugging My Career Path – Let’s Connect!
+🔥 Fresh Talent, High Energy – Ready to Rock the Tech World!
+🤓 Geek at Heart, Developer by Choice – Let’s Create!
+Professional & Impactful 💼
+📢 Full-Stack Developer | Building Scalable & Secure Solutions
+🎨 Front-End Developer | Crafting Engaging User Experiences
+💻 Bringing Business Ideas to Life Through Code
+📈 Problem-Solving Developer Ready to Make an Impact!
+🏆 Driven & Detail-Oriented Developer | Open to Work
+Technical & Skill-Based 🛠️
+🚀 React | Node.js | MongoDB – Full-Stack Dev Ready for Challenges!
+💡 Building Web Apps with JavaScript, React & More!
+🛠️ Optimizing Performance, Writing Clean Code – Let’s Connect!
+🔍 Passionate Developer | UI/UX | API Integration Expert
+⚡ Crafting High-Performance Applications with Modern Tech
+Passionate & Eager ❤️
+🌟 Code is My Canvas – Passionate Developer Open to Work!
+🔥 Love Coding, Live Problem-Solving – Let’s Build the Future!
+🎯 From Passion to Profession – Ready to Contribute!
+🚀 Learning, Growing & Innovating – Looking for My Next Role!
+💼 Excited to Join a Team That Values Innovation & Creativity!
+
+
+
+
+
+
+
+
+:
+
+📢 Full-Stack Developer | Building Scalable & Secure Solutions
+💻 Bringing Business Ideas to Life Through Code
+🏆 Driven & Detail-Oriented Developer | Open to Work
+🚀 React | Node.js | MongoDB – Full-Stack Dev Ready for Challenges!
+📈 Problem-Solving Developer Ready to Make an Impact!
+
+
+
+
+
+
+(Call to Action):
+
+
+📞 I’d love to connect and discuss how my skills align with your team’s needs—when would be a good time?
+📝 Please find my resume attached. I’d appreciate the opportunity to discuss any suitable openings!
+👀 If there are any upcoming roles matching my profile, I’d be happy to apply—please let me know!
+🚀 Looking forward to your thoughts on my application! Can we schedule a discussion this week?
+📩 I’m eager to contribute and grow—let me know the next steps in the hiring process!
+🤝 I’d love to hear about any opportunities at [Company Name]. Can we set up a quick chat?
+💡 Open to freelance, internships, or full-time roles—please let me know if there’s a fit!
+📅 Let’s set up a quick call to discuss how I can add value to your team!
+🔍 I’m actively seeking opportunities—please let me know if my profile matches any openings!
+🎯 If you’re hiring for [Job Role], I’d love to be considered—let’s connect!
+
+
+--
+
+
+📅 Let’s set up a quick call to discuss how I can add value to your team! (Direct and action-oriented)
+📞 I’d love to connect and discuss how my skills align with your team’s needs—when would be a good time? (Encourages immediate scheduling)
+📝 Please find my resume attached. I’d appreciate the opportunity to discuss any suitable openings! (Straightforward and professional)
+🚀 Looking forward to your thoughts on my application! Can we schedule a discussion this week? (Shows eagerness and asks for a clear next step)
+📩 I’m eager to contribute and grow—let me know the next steps in the hiring process! (Encourages HR to take action and reply quickly)
+
+
+
+
+Highlighting Availability:
+
+
+
+📅 I’m available for an interview at your earliest convenience—when would be a good time to connect?
+🚀 Ready to start immediately! Let’s discuss how I can contribute to your team.
+📞 Actively seeking opportunities—available for a call this week. Does [Day/Time] work for you?
+📝 Open to full-time, contract, or internship roles—let me know if there’s a fit!
+🤝 Available to start right away—let’s connect and discuss potential opportunities!
+📩 I’m flexible for an interview this week. Let me know when we can schedule a call!
+🎯 I can join immediately—excited to explore this opportunity with you!
+🔍 Actively looking and available for discussions—let’s connect soon!
+📢 My schedule is open for a quick chat—let me know a time that works for you!
+💼 I’d love to explore opportunities at [Company Name]—I’m available anytime for a discussion!
+
+
+----
+
+📅 I’m available for an interview at your earliest convenience—when would be a good time to connect? (Direct and professional, making it easy for HR to schedule a call.)
+🚀 Ready to start immediately! Let’s discuss how I can contribute to your team. (Highlights urgency, making you a priority for immediate openings.)
+📞 Actively seeking opportunities—available for a call this week. Does [Day/Time] work for you? (Gives HR a clear time frame to respond.)
+📩 I’m flexible for an interview this week. Let me know when we can schedule a call! (Shows adaptability while pushing for a quick response.)
+🎯 I can join immediately—excited to explore this opportunity with you! (Immediate availability is attractive to HR for urgent hiring needs.)
+
+
+
+
+
+mail formats:
+
+
+
+MAIN FORMAT :
+
+
+Dear [Hiring Manager’s Name],
+
+I hope you're doing well. My name is Devaraj M, and I am a passionate Fullstack Developer with expertise in developing scalable, high-performance digital solutions using React, JavaScript, REST APIs, Python, Java, C, C++, and more.
+
+With a strong foundation in data structures, algorithms, and system design, I have hands-on experience in both frontend and backend development, ensuring clean, maintainable, and efficient code that drives business success.
+
+I am eager to collaborate with your team and contribute to impactful projects. I’d love to connect and discuss how my skills align with your organization’s goals.
+
+📎 Attached: My Resume
+📞 Mobile: +91 9344794359
+🔗 LinkedIn: [Your LinkedIn Profile] | 🌍 Portfolio: [Your Portfolio Link]
+
+Looking forward to your response!
+
+Best regards,
+Devaraj M
+
+
+
+
+FORMAT 1:
+
+
+
+Dear [Hiring Manager’s Name],
+
+I am excited to apply for the [Your Role] position at [Company Name]. With expertise in React, JavaScript, REST APIs, Python, Java, C, C++, and more, I specialize in developing scalable, responsive, and high-performance applications that enhance user experience and optimize system efficiency.
+
+🚀 Key Strengths:
+✔ Strong foundation in data structures, algorithms, and system design.
+✔ Hands-on experience in both frontend and backend development.
+✔ Passion for writing clean, maintainable, and efficient code.
+
+I would love to discuss how my skills align with your team’s goals. I am available at your convenience—please let me know a suitable time to connect.
+
+📎 Attached: My Resume
+📞 Mobile: +91 9344794359
+🔗 LinkedIn: [Your LinkedIn] | 🌍 Portfolio: [Your Portfolio]
+
+Looking forward to your response!
+
+Best regards,
+Devaraj M
+
+
+
+
+
+FORMAT 2:
+
+
+ Subject: Passionate [Your Role] | Eager to Contribute to [Company Name]
+
+Dear [Hiring Manager’s Name],
+
+I recently came across [Company Name]’s work in [mention relevant industry or technology], and I was truly impressed. As a [Your Role] with experience in React.js, JavaScript, Node.js, Python, and SQL, I thrive on developing innovative and impactful solutions that drive efficiency and enhance user experience.
+
+🔹 Why I’d Be a Great Fit for [Company Name]:
+✔ Built scalable, high-performance web applications that improved user engagement by 40%.
+✔ Strong knowledge of SEO, mobile responsiveness, and web performance optimization.
+✔ Experienced in REST APIs, Express.js, cross-browser compatibility, and debugging.
+
+I’d love to explore how my expertise can contribute to [Company Name]’s success. Are you available for a quick discussion this week?
+
+📎 Resume Attached | 🔗 LinkedIn: [Your Profile] | 🌍 Portfolio: [Your Link]
+
+Looking forward to hearing from you!
+
+Best regards,
+Devaraj M
+
+
+
+FORMAT 3:
+
+
+Dear [Hiring Manager’s Name],
+
+I am reaching out to express my interest in the [Your Role] position at [Company Name]. With hands-on experience in React.js, JavaScript, Node.js, Python, and MongoDB, I have built high-performance applications that enhance business efficiency.
+
+📊 Key Contributions:
+✔ 30% faster page load times, improving user retention and engagement.
+✔ Designed and developed multiple SEO-optimized platforms, increasing traffic by 40%.
+✔ Skilled in Git, Webpack, Postman, Google Analytics, and API integrations.
+
+I am excited about the opportunity to contribute to [Company Name] and would love to discuss how my skills can align with your team’s needs. Would you be available for a quick conversation this week?
+
+📎 Resume Attached
+🔗 LinkedIn: [Your LinkedIn] | 🌍 Portfolio: [Your Portfolio]
+
+Looking forward to your response!
+
+Best regards,
+Devaraj M
+
+
+
+
+PROGRAMMING LANGUAGES:
+
+HTML
+CSS
+JAVA
+JAVASCRIPT
+BOOTSRATP
+NODE JS
+EXPRESS JS
+SEO
+SQL
+NOSQL
+PYTHON
+TYPESCRIPT
+JQUERY
+
+
+
+TOOLS:
+
+GIT & GITHUB
+GOOGLE ANALYTICS
+GOOGLE SEARCH CONSOLE
+INTELLIJ IDEA
+VS CODE
+MYSQL
+MONGODB ATLAS
+POSTMAN
+FIGMA
+
+
+
+
+SOFT SKILLS:
+
+
+LEADER SHIP
+COMMUNICATION
+PROBLEM SOLVING
+ANALYTICAL THINKNING
+QUICK LEADER 
+TEAM LEADING 
+TIME MANAGEMENT
+ERROR HANDLING
+CODE DEBUGGING
+ADAPDABILITY
