@@ -19,7 +19,8 @@ Junior Fullstack Developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><img height="50" width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Node.js"/>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"/>
-
+<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="api-settings"/>
 
 
 
@@ -31,6 +32,10 @@ Junior Fullstack Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-framer-the-only-tool-you-need-to-create-interactive-designs-for-any-platform-logo-color-tal-revivo.png" alt="external-framer-the-only-tool-you-need-to-create-interactive-designs-for-any-platform-logo-color-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/wordpress.png" alt="wordpress"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vercel.png" alt="vercel"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
 
 
