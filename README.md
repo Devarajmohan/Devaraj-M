@@ -16,10 +16,20 @@ Fullstack Developer
 - ⚡ Fun fact: its all about laught.
 
 ### I code in
-<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"/> <img height="50" width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Node.js"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="api-settings"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<p align="left">
+  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" alt="Arduino" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="API" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-right:10px;"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+</p>
 
 
 
