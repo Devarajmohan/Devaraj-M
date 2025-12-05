@@ -10,8 +10,8 @@ Fullstack Developer
 
 - 💬 Ask me about Tech
 ### 📫 How to reach me:
-- 📞 **Mobile:** +91 98765 43210  
-- 📧 **Email:** devarajm.dev@example.com  
+- 📞 **Mobile:** +91 9344794359 
+- 📧 **Email:** devarajm8925@gmail.com
 - 🔗 **LinkedIn:**  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devaraj-m-b2b78221b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
